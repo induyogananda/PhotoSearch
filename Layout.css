@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 25px;
+    overflow: hidden;
+  }
+  li{
+      display: inline;
+      float: left;
+      margin: 10px;
+  }
+  Link{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
